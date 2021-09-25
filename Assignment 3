@@ -1,0 +1,115 @@
+void main() {
+//   var assignment="\tAssignment=3\n";
+//   print (assignment);
+// var q1="(1)How to duplicate repeating items inside a Dart list? \nProblem \nConsider the code: \nfinal List<Ball> _ballList = [Ball (), Ball (), Ball (), Ball (), Ball (),] \nWhat can to be done in order to not repeat Ball () multiple times?";
+//   print (q1);
+//   var ans1="\tans=1\n";
+//   print (ans1);
+
+// List<dynamic> ballList = ["Ball ()", "Ball ()", "Ball ()"," Ball ()"," Ball ()"];
+// for (int i=4;i<ballList.length;i++){
+//    print(ballList[i]);}
+//   var q2="2. How to get difference of lists in Flutter/Dart?\nProblem \nConsider you have two lists [1,2,3,4,5,6,7] and [3,5,6,7,9,10]. How \nwould you get the difference as output? eg. [1, 2, 4]";
+
+// print (q2);
+//   var ans2="\tans2\n";
+//   print (ans2);
+//   var list1=[1,2,3,4,5,6,7];
+//   var list2=[3,5,6,7,9,10];
+//   var result=list1.removeWhere((e)=>list2.contains(e));
+//   print (list1);
+
+// var q3="3. Let’s say you are given a list saved in a variable: \nConsider a = [1, 4, 9, 16, 25, 36, 49, 64, 81, 100].Write a code that takes this list and makes a new list that has only the even elements of this list in it.";
+// print (q3);
+//   var a = [1, 4, 9, 16, 25, 36, 49, 64, 81, 100];
+//   for (int i=0 ; i<a.length ; i++){
+//   if(a[i]%2==0){
+//   print(a[i]);}}
+  
+// var q4="4. Ask the user for a number and determine whether the number is \nprime or not.s";
+// print (q4);
+//   var ans4="\tans=4\n"
+//  int m=0;
+// bool a = false;
+//   int num = 87;
+//   m=num~/2;
+//   for(int i = 2;i<=m;i++){
+//     if(num%i == 0){
+//       print('$num is not a prime number');
+//       a = true;
+//       break;}}
+//   if(a==false){
+//     print('$num is prime number');}
+
+//  var q5="Write a program to print multiplication table of 7 length 15.";
+//   print (q5);
+//   var ans5="ans5";
+//   print(ans11);
+//   var a=7;
+//   var z=0;
+//   for (int i=1;i<=15;i++){
+//     z=z+a;
+//     print ("${a}x${i}=${z}");}
+  // var q6="6. Write a program to print items of the following array using for loop: \nfruits = [“apple”, “banana”, “mango”, “orange” , “strawberry”].";
+// print (q6);
+// var ans6="/tans6/n";
+//   print (ans6);
+// var fruits = ["apple", "banana", "mango", "orange" , "strawberry"];
+//   for (int i=0;i<fruits.length;i++){
+//     print (fruits[i]);
+//   }
+// var q7="7. Write a program to print multiples of 5 ranging 1 to 100.";
+//   print (q7);
+//   var ans7="\tans7\n";
+//   print (ans7);
+//   var a=5;
+//   var z=0;
+//     for (int i=1;i<=100;i++){
+//       z=z+a;
+//       print("${a}x${i}=${z}");}
+    
+      
+//     }
+//   var q8="8. Write a program to create a calculator for +, -, *, / & % using if /nstatements. Take the following input: \na. First number Second number \nb. Operation (+, -, *, /, %) /nCompute & show the calculated result to user.";
+//   print (q8);
+//   var ans8="\tans8\n";
+//   print (ans8);
+//   var num1=9;
+//   var num2=6;
+//   var result1=num1+num2;
+//   var result2=num1-num2;
+//   var result3=num1*num2;
+//   var result4=num1%num2;
+//   print("number 1 is ${num1}");
+//   print("number 2 is ${num2}");
+//   print("number 1 + number 2 is ${result1}");
+//   print("number 1 - number 2 is ${result2}");
+//   print("number 1 x number 2 is ${result3}");
+//   print("number 1 ÷ number 2 is ${result4}");
+  
+//   var q9="9. Write a program that takes a character (I. e. string of length 1) \nand returns true if it is a vowel, false otherwise.";
+//   print (q9);
+//   var ans9="\tans9\n";
+//   print (ans9);
+//   var ch="e";
+
+//   if(ch=="a"||ch=="A"||ch=="e"||ch=="E"||ch=="i"||ch=="I"||ch=="o"||ch=="O"||ch=="u"||ch=="U"){
+//     print("TRUE");}
+//     else {
+//       print("FALSE");}
+    
+// var q10=" 10. The Temperature Converter: It’s hot out! Let’s make a converter based on the steps here. \na. Store a Celsius temperature into a variable. \nb. Convert it to Fahrenheit & output “NNoC is NNoF”. \nc. Now store a Fahrenheit temperature into a variable.  \nd.Convert it to Celsius & output “NNoF is NNoC”.";
+//   print (q10);
+//   var ans10="\tans10\n";
+//   print (ans10);
+// var c=8;
+// print ("from Celsius to Fahrenheit");
+//   print ("NNoC to NNoF is ${c*9/5+32}");
+  
+// var f=75;
+ 
+//   print ("from Fahrenheit to Celsius");
+//   print ("NNoF to NNoC is ${(f-32)*5/9}");
+  
+  
+}
